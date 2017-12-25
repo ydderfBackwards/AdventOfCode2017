@@ -1,5 +1,5 @@
 #Read file
-f  = open('D:\Prive\Projecten\Python\AdventOfCode2017\Day 1\PuzzleInput.txt','r')
+f  = open('D:\Projecten\Python\AdventOfCode2017\Day 1\PuzzleInput.txt','r')
 
 Values = f.read()
 print("Input is: ",Values)
