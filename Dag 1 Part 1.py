@@ -5,7 +5,7 @@
   #- 91212129 produces 9 because the only digit that matches the next one is the last digit, 9.
 
 #Read file
-f  = open('D:\Prive\Projecten\Python\AdventOfCode2017\Day 1\PuzzleInput.txt','r')
+f  = open('D:\Projecten\Python\AdventOfCode2017\Day 1\PuzzleInput.txt','r')
 Values = f.read()
 print("Input is: ",Values)
 
