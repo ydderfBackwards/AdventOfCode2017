@@ -1,5 +1,5 @@
 #Read file
-f  = open('D:\Prive\Projecten\Python\AdventOfCode2017\Day 5\Input.txt','r')
+f  = open('D:\Projecten\Python\AdventOfCode2017\Day 5\Input.txt','r')
 
 
 MyList = []
